@@ -28,17 +28,21 @@ The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-
 📌 Most of the incidents have happened when there is no cloud in each year
 
 # Conclusion
-* 42.72% incidents where pilot was warned about the birds
+* 43.6% of time Pilots are not warned about the wildlife strike
 
 * Prior warning to the pilot reduces the risk of damage to the aircraft
 
-* 52.78% of incidents have happened due to some small unknown bird.
+* 68.7% of incidents have happened due to some small unknown birds
 
-* 72.9% incidents have happened when there is 1 bird/wildlife is struck in the airplane and caused damage.
+* California, Texas and New York has the highest number of bird strike incidents.
 
 * 90.31% incidents caused no damage while 9.69% incidents caused damage
 
-* 80.84% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 19.16% have happened when altitude was >1000 ft.
+* 80.84% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 19.16% have happened when altitude was >1000 ft
+
+* Most of the incidents have happened when there is no cloud in each year
+![image](https://github.com/rangheranikhil/Bird-Strike-Analysis/assets/116297771/04429d27-bb7a-4197-a883-43895b2bdfa1)
+
 
 # Tools Used
 * Python
